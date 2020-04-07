@@ -2,7 +2,9 @@ import React from 'react'
 export default class App extends React.Component{
     render(){
         return(
-            <div></div>
+            <div>
+                <h2>qwe</h2>
+            </div>
         )
     }
 }
