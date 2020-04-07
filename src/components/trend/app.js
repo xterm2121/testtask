@@ -5,6 +5,8 @@ export default class App extends React.Component{
             <div>
                 <h2>qwe</h2>
                 <h2>qwe</h2>
+                <div></div>
+                <div></div>
             </div>
         )
     }
