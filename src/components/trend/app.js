@@ -4,6 +4,7 @@ export default class App extends React.Component{
         return(
             <div>
                 <h2>qwe</h2>
+                <h2>qwe</h2>
             </div>
         )
     }
